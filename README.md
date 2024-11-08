@@ -1,2 +1,2 @@
 # OmniMind
-An all-encompassing knowledge graph for AI
+An all-encompassing knowledge graph for AI and Robotics
